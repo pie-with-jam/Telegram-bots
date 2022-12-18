@@ -1,2 +1,8 @@
-# Telegram-bots
-Open source telegram bots will be published here
+# Сборник телеграм ботов
+
+## Главная
+
+Это репозиторий, в котором собраны все боты от pie-with-jam
+
+## Боты
+1) @encyclopedoff_bot
